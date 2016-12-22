@@ -1,0 +1,1 @@
+git+ssh://lseagle@lsgit.uk/~/lsgit.uk/linnworks_db.git@v1.0
